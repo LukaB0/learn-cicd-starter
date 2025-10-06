@@ -19,4 +19,4 @@ jobs:
           go-version: "1.25.1"
 
       - name: Version Check
-        run: go version 1
+        run: go version
